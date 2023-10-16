@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(149, 214, 192);
+}
+
+img {
+  border: 15px solid rgb(2, 58, 27);
+}
+
+table,
+th {
+    border: 1px solid;
+    margin-bottom: 40px;
+}
+
